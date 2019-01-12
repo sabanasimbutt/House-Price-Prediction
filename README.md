@@ -1,12 +1,12 @@
 # House-Price-Prediction
 
-Exploratory Data Analysis or EDA and visualization
+**Exploratory Data Analysis or EDA and visualization
 
-Data Cleaning
+**Data Cleaning
 
-Feature engineering and selection
+**Feature engineering and selection
 
-Predictive modeling
+**Predictive modeling
 
 
-Detailed description of Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Detailed description of Dataset can be found here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
