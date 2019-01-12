@@ -1,12 +1,12 @@
 # House-Price-Prediction
 
-**Exploratory Data Analysis or EDA and visualization**
+**1.Exploratory Data Analysis or EDA and visualization**
 
-**Data Cleaning**
+**2.Data Cleaning**
 
-**Feature engineering and selection**
+**3.Feature engineering and selection**
 
-**Predictive modeling**
+**4.Predictive modeling:**
 Linear Regression without regularization.
 Linear Regression with regularization using Ridge and GridSearchCV.
 
