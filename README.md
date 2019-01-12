@@ -1,5 +1,8 @@
 # House-Price-Prediction
 
-Exploratory Data Analysis or EDA and Sale Price predictions of House Prices dataset on Kaggle.
+Exploratory Data Analysis or EDA and visualization
+Data Cleaning
+Feature engineering and selection
+Predictive modeling
 
-Detailed description: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Detailed description of Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
