@@ -4,13 +4,11 @@ Ames Housing dataset with 79 explanatory variables describing (almost) every asp
 
 ### Approach:
 
-**1.Exploratory Data Analysis or EDA and visualization**
+**1.Exploratory Data Analysis and visualization**
 
 **2. Dealing with outliers**
 
 **3.Feature Engineering and Data Cleaning**
-
-**3.Feature engineering and selection**
 
 **4.Feature Transformation**
 
