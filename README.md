@@ -12,19 +12,15 @@ Ames Housing dataset with 79 explanatory variables describing (almost) every asp
 * Relationship of features with target variable SalePrice
 
 
-**2.Data Cleaning**
+**2.Data Cleaning and Data Preparation**
 
 * Dealing with missing values
 * Dealing with outliers
-
-
-**3.Data Preparation**
-
 * Feature Engineering
 * Feature Transformation
 
 
-**4.Predictive Modeling**
+**3.Predictive Modeling**
 
 * Ridge Regression
 * Lasso Regression
