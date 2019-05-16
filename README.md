@@ -4,35 +4,27 @@ Ames Housing dataset with 79 explanatory variables describing (almost) every asp
 
 ### Approach:
 
-**1.Exploratory Data Analysis and visualization**
+**1.Exploratory Data Analysis**
 
 * EDA to get better understanding of dataset
 * Visualization of data
 * Understanding the nature of data
 * Relationship of features with target variable SalePrice
 
-**2. Dealing with outliers**
 
-* Outliers are values that can create noise
-* Removing outliers can help model to prevent overfiting
+**2.Data Cleaning and Data Preparation**
 
-**3.Feature Engineering and Data Cleaning**
+* Dealing with missing values
+* Dealing with outliers
+* Feature Engineering
+* Feature Transformation
 
-* Feature engineering is making of features
-*  Normalization of features 
-* Creating some new features from existing ones
-* Finding null values in data 
-* Filling them with mean/median/mode/or some appropriate values by carefully analyzing the nature of feature
 
-**4.Feature Transformation**
-
-* Transformation of features
-* Creation of dummy values for categorical features
-
-**5.Predictive Modeling**
+**3.Predictive Modeling**
 
 * Ridge Regression
 * Lasso Regression
 * ElasticNet Regression
+
 
 Detailed description of Dataset can be found here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
